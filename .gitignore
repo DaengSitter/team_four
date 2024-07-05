@@ -14,6 +14,10 @@ local.properties
 .loadpath
 .recommenders
 
+# ignore properties file
+config.properties
+db.properties
+
 # External tool builders
 .externalToolBuilders/
 
