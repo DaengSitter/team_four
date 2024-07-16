@@ -35,6 +35,7 @@ public class AdminController {
 	HttpSession session;
 
 	AdminDAO admin_dao;
+//github test
 // 7/15
 	OneInquiryDAO oneinquiry_dao;
 
